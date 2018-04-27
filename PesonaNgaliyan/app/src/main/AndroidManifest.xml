@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.randy.pesonangaliyan">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".SplashScreen2"
+            android:theme="@style/SplashScreen" />
+        <activity
+            android:name=".BambankerepActivity"
+            android:label="Bambankerep" />
+        <activity
+            android:name=".BringinActivity"
+            android:label="Bringin" />
+        <activity
+            android:name=".TambakajiActivity"
+            android:label="Tambakaji" />
+        <activity
+            android:name=".WonosariActivity"
+            android:label="Wonosari" />
+        <activity
+            android:name=".KalipancurActivity"
+            android:label="Kalipancur" />
+        <activity
+            android:name=".PodorejoActivity"
+            android:label="Podorejo" />
+        <activity
+            android:name=".PurwoyosoActivity"
+            android:label="Purwoyoso" />
+        <activity
+            android:name=".GondoriyoActivity"
+            android:label="Gondoriyo" />
+        <activity
+            android:name=".NgaliyanActivity"
+            android:label="Ngaliyan" />
+        <activity
+            android:name=".WatesActivity"
+            android:label="Wates" />
+    </application>
+
+</manifest>
