@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SnackActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:text="Kampung Mayangsari Kelurahan Kalipancur ditunjuk sebagai kampung tematik oleh Pemerintah kota Semarang. Dengan mempertimbangkan karakteristik sosial budaya, sosial ekonomi, demografi serta orientasi kebutuhan masyarakatnya, telah ditetapkan memilih tema SNACK.
+Tageline SNACK tersebut memiliki dua makna yaitu: pertama kata SNACK bisa berhubungan dengan makanan (kudapan). Dengan tageline ini harapannya dapat dijadikan sebagai wahana mengefektifkan pemberdayaan potensi warga dalam memproduksi snack, untuk meningkatkan kesejahteraannya. Yang kedua SNACK adalah kepanjangan dari SANTUN, NETRAL, AMAN, CERDAS, dan KREATIF.
+
+SANTUN artinya terciptanya masyarakat beretika dan bertatakrama, sesuai dengan norma-norma sosial, budaya, dan agama.
+
+NETRAL artinya tidak memihak pada golongan, partai, atau kelompol tertentu, semata-mata mengedepankan keguyuban hidup bermasyarakat dengan semangat gotong royong.
+
+AMAN artinya setiap anggota masyarakat dapat ikut menciptakan suasana hidup yang aman, nyaman, dan damai.
+
+CERDAS artinya memiliki kompetensi kecerdasan kehidupan suasana untuk mengatasi dan memenuhi kebutuhannya.
+
+KREATIF artinya memiliki kemampuan berkreasi, mencipta dan mengolah sumberdaya yang ada menjadi sesuatu yang bermanfaat bagi pemenuhan kebutuhan kehidupannya."
+        android:layout_height="match_parent" />
+
+</LinearLayout>

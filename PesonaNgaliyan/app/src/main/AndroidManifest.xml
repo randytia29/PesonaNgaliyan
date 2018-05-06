@@ -20,38 +20,8 @@
         </activity>
         <activity android:name=".MainActivity" />
         <activity
-            android:name=".SplashScreen2"
-            android:theme="@style/SplashScreen" />
-        <activity
-            android:name=".BambankerepActivity"
-            android:label="Bambankerep" />
-        <activity
-            android:name=".BringinActivity"
-            android:label="Bringin" />
-        <activity
-            android:name=".TambakajiActivity"
-            android:label="Tambakaji" />
-        <activity
-            android:name=".WonosariActivity"
-            android:label="Wonosari" />
-        <activity
-            android:name=".KalipancurActivity"
-            android:label="Kalipancur" />
-        <activity
-            android:name=".PodorejoActivity"
-            android:label="Podorejo" />
-        <activity
-            android:name=".PurwoyosoActivity"
-            android:label="Purwoyoso" />
-        <activity
-            android:name=".GondoriyoActivity"
-            android:label="Gondoriyo" />
-        <activity
-            android:name=".NgaliyanActivity"
-            android:label="Ngaliyan" />
-        <activity
-            android:name=".WatesActivity"
-            android:label="Wates" />
+            android:name=".SnackActivity"
+            android:label="Kampung Snack Mayangsari" />
     </application>
 
 </manifest>
